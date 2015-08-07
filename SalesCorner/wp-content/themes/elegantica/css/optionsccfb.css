@@ -1,0 +1,258 @@
+::selection { background: #35C2D8; color: #fff; text-shadow: none; }
+body {	 
+	background:#ffffff  url('../images/bg/backgroundPatternElegantica.png') !important;
+	color:#2a2b2c;
+	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;
+	font-size: 13px;
+	font-weight: normal;
+	line-height: 1.65em;
+	letter-spacing: normal;
+}
+h1,h2,h3,h4,h5,h6, .blogpostcategory .posted-date p, .team .title, .term-description p{
+	font-family: Yanone Kaffeesatz  !important;
+			font-weight: 300;
+		line-height: 110%;
+}
+
+h1 { 	
+	color:#2a2b2c;
+	font-size: 34px !important;
+	}
+	
+h2, .term-description p { 	
+	color:#2a2b2c;
+	font-size: 26px !important;
+	}
+
+h3 { 	
+	color:#2a2b2c;
+	font-size: 22px !important;
+	}
+
+h4 { 	
+	color:#2a2b2c;
+	font-size: 18px !important;
+	}	
+	
+h5 { 	
+	color:#2a2b2c;
+	font-size: 17px !important;
+	}	
+
+h6 { 	
+	color:#2a2b2c;
+	font-size: 16px !important;
+	}	
+h2.title a {color:#2a2b2c;}
+a, a:active, a:visited, .footer_widget .widget_links ul li a{color: #2a2b2c;}	
+.widget_nav_menu ul li a  {color: #2a2b2c !important;}
+a:hover, h2.title a:hover, .item3 h3:hover, .item4 h3:hover, .item3 h3 a:hover, #portitems2 h3 a:hover {color: #35C2D8;}
+.item3 h3, .item4 h3, .item3 h3 a, .item4 h3 a, .item3 h4, .item2 h4, .item4 h4, #portitems2 h3 a {color:#2a2b2c;}
+/* ***********************
+--------------------------------------
+------------NIVO SLIDER----------
+--------------------------------------
+*********************** */
+.homeBox h2 a {color:#2a2b2c;}
+.nivo-caption { 
+	position:absolute; 
+	background-color: #35C2D8;
+	background-color: rgba(53,194,216,0.75);
+	border: 1px solid #35C2D8; 
+	color: #ffffff; 
+	font-size: 24px;
+	font-family: Yanone Kaffeesatz  !important;
+	text-shadow:0 1px 0 rgba(0,0,0,0.15);
+	letter-spacing: normal;
+	padding:5px 15px 5px 5px;
+	z-index:99;
+	top:50px;
+	left:0px;
+	text-align:center;
+	line-height:120%;
+}
+a.nivo-nextNav , a.nivo-prevNav {background: url(images/sponsorsArrowsForward.png) 3px 0  #35C2D8;background: url(images/sponsorsArrowsForward.png) 3px 0  rgba(53,194,216,0.75);}
+a.nivo-prevNav {background: url(images/sponsorsArrowsBack.png) 2px 0  #35C2D8;background: url(images/sponsorsArrowsBack.png) 2px 0  rgba(53,194,216,0.75);}
+
+.nivo-caption a { 
+	color: #ffffff;  
+	text-decoration: underline; 
+}	
+
+.caption-content { padding:0px 0px 200px 0px; color:; font-size: ; font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif; text-shadow: 1px 1px 0px black; filter:alpha(opacity=750);letter-spacing: normal;}
+.caption-content h1{width:250px !important; background: rgba(53,194,216,0.75);  padding:10px ;text-align:center;  line-height:120%;}
+.caption-content h2 {	color:!important;
+						font-size:!important;
+						text-shadow: 1px 1px 0px black;}
+.caption-content p{ }
+
+
+
+
+.caption-content h1{
+	color:!important;
+	font-size:!important;
+	text-shadow: 1px 1px 0px black;
+}
+
+.caption-content h2{
+	background: rgba(,,,0.75);  padding:10px ;text-align:center;  line-height:120%;
+}
+
+#headerwrap, .homeRacent h2 ,.advertise h2,.slider-category .anythingBase,#nslider img, h3#comments ,.related h3, .widget h3, .projectdescription h3, .portsingle .portfolio h3, .titleborderh, .menu-header,
+.socialsingle h2{
+	background:#ffffff  url('../images/bg/backgroundPatternElegantica.png') !important;
+	}
+
+/* ***********************
+--------------------------------------
+------------MAIN COLOR----------
+--------------------------------------
+*********************** */
+
+.catlinkhover,.item h3 a:hover, .item2 h3 a:hover, .item4 h3 a:hover,.homeRacent h3:hover,.catlink:hover,.infotext span, .homeRacent h3 a:hover,
+.blogpost .link:hover,.blogpost .postedin:hover ,.blogpost .postedin:hover, .blogpost .link a:hover,.blogpostcategory a.textlink:hover,
+.footer_widget .widget_links ul li a:hover, .footer_widget .widget_categories  ul li a:hover,  .footer_widget .widget_archive  ul li a:hover,
+#footerb .footernav ul li a:hover,.footer_widget  ul li a:hover,.tags span a:hover,.more-link:hover,.homeBox .one_third a,.showpostpostcontent h1 a:hover,
+.menu li a:hover,.menu li a:hover strong, .menu li ul li:hover ul li:hover a,
+.menu > li.current-menu-item a strong,.menu > li.current-menu-ancestor a strong,.blogpostcategory .meta .written:hover a ,.blogpostcategory .meta .comments:hover a ,
+#wp-calendar a , .widgett a:hover ,.widget_categories li.current-cat a, .widget_categories li.current-cat, .blogpostcategory .meta .time a:hover,.homeRacent h2 span, .advertise h2 span, 
+.widget span , .related h3 span, .homeremove .catlink .sortingword:hover, .homeremove .catlinkhover .sortingword, .accordion a, .blogpost .datecomment  .link a,
+.titleborderh span, .textSlide .box, .textSlide .button a, a.recentmore, .blogpostcategory .blogmore, .top-nav a:hover, .widget_login p a:hover, .priceSP ins, .single_variation .price,
+.homeRacent .productF h3.category, .homeRacent .productR h3.category, .single_variation ins, .textSlide .salePrice1 a, .textSlide .salePrice2 a, .textSlide .salePrice3 a, .cart_list.product_list_widget li .amount,
+table.shop_table .cart_table_item .product-name a, table.order_details .product-name a, .cartTopDetails .total .amount, .cartTopDetails .product_list_widget li a:hover , .menu .pmcbig .pmcmenutitle > a,.menu .pmcbig .menufeautured span
+{color:#35C2D8 !important;}
+
+.socialsingle h2 span, .homeRacent h2 span, .advertise h2 span, .related h3 span, .infotext span,  .portfolio h3 span, .portsingleshare span, .titleborderh span,
+.blogpostcategory .meta .category a, .tags a, .blogpost .posted-date a, .item4 h4 a, #portitems2 .category a, .homeRacent .category a, .portcategories a
+{background:#35C2D8 !important; color:#fff !important;text-shadow:0 1px 0 rgba(0,0,0,0.15);padding:2px 6px 3px 6px; }
+.widget del .amount {background:none !important;}
+
+
+.advertise .bx-wrapper:hover .bx-next{background: #35C2D8 url(images/sponsorsArrowsForward.png) no-repeat;margin-left:935px;}
+.advertise .bx-wrapper:hover .bx-prev {background: #35C2D8 url(images/sponsorsArrowsBack.png) no-repeat;margin-left:0px;}
+ .page .homeRacent .bx-next,.portprev ,.homeRacent.SP .bx-next{background: #35C2D8 url(images/sponsorsArrowsForward.png) no-repeat;}
+ .page .homeRacent .bx-prev,.portnext ,.homeRacent.SP .bx-prev {background: #35C2D8 url(images/sponsorsArrowsBack.png) no-repeat;}
+.nextbutton.port {background: #35C2D8 url(images/sponsorsArrowsForward.png) no-repeat 0px -2px;}
+.prevbutton.port {background: #35C2D8 url(images/sponsorsArrowsBack.png) no-repeat 0px -2px;}
+.homeRacent .overLowerDefault,#portitems2 .overLowerDefault , .item3 .overLowerDefault, .item4 .overLowerDefault {background: #35C2D8 url(images/magnifyingGlassOverIcon.png);  }
+
+.homeRacent .productR .recentdescription .onsale {border-color: #35C2D8 transparent #35C2D8  #35C2D8;text-shadow:0 1px 0 rgba(0,0,0,0.15);}
+/* ***********************
+--------------------------------------
+------------BOX COLOR----------
+--------------------------------------
+*********************** */
+.homeBox .first {background:#35C2D8 !important;}
+.homeBox .second {background:#8FB813 !important;}
+.homeBox .third {background:#F356B1 !important;}
+#footer, #homeRecent .one_fourth, .item3 h3, .item4 h3, .item3 h3 a, .item4 h3 a ,.homewrap .homesingleleft,.homewrap .homesingleright
+
+{ background:#ffffff}
+.homeRacent h3 a, .item4 h3, .item4 h3 a {color:#2a2b2c;}
+#remove a, #remove a span{color:#2a2b2c;font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;} 
+
+/* ***********************
+--------------------------------------
+------------BOX FONT COLOR----------
+--------------------------------------
+*********************** */
+
+.homeBox .one_fourth h2 a, .homeRacent h3.category a, .blogpostcategory .meta .category a, .tags a, .blogpost .posted-date a, .item4 h4 a, #portitems2 h3.category a, .team .role,.portcategories a,
+.wp-pagenavi a:hover, .wp-pagenavi span.current, #respond #commentform input#commentSubmit, #contactform .contactbutton .contact-button, .blogpostcategory .comment-inside a, .blogpostcategory .date-inside,
+.content ol.commentlist li .reply a, #commentform #respond #commentform input#commentSubmit, #respond #commentform input#commentSubmit, .pagecontent h1, .pagecontent p, .pagecontent p a, .homeRacent h3.category a:hover,
+.homeremove .catlink span, .errorpage .postcontent h2, .errorpage .posttext, .blogpostcategory .date-inside .day, .blogpostcategory .date-inside .month, .textSlide span,textSlide .quote, textSlide .quote2
+ {color: #ffffff !important;}
+.homeremove .catlinkhover .sortingword, .homeremove .catlink .sortingword:hover  {background:#ffffff;}
+/* ***********************
+--------------------------------------
+------------MAIN COLOR BOXED----------
+--------------------------------------
+*********************** */
+#contactform  .contactbutton .contact-button:hover, .gototop ,.role, .team .icon img,.pagewrap, .blogpostcategory .posted-date .date-inside, #slider-wrapper,
+.errorpage, .content ol.commentlist li .reply a, .blogpostcategory .comment-inside, ins, .widget_login .submitbutton, .widget_price_filter_custom .ui-slider .ui-slider-handle,
+.widget_price_filter_custom .ui-widget-content, .item4 .image, .item3 .image, .item2 .image, table.shop_table .carButtons .button:hover, table.shop_table .coupon .button:hover, .cartTopDetails .product_list_widget .buttons a:hover,
+.widget_price_filter_custom  .price_slider_amount .button:hover
+{background:#35C2D8;}
+.item2 .image {background:#35C2D8 !important;}
+#fancybox-close:hover, .cartWrapper {background:#35C2D8 !important;}
+ins {color:#fff !important;}
+.wp-pagenavi a:hover, .wp-pagenavi span.current,#respond #commentform input#commentSubmit, #contactform  .contactbutton .contact-button, a.button, button.button, input.button, #respond input#submit, #content input.button,
+a.button:hover, button.button:hover, input.button:hover, #respond input#submit:hover, #content input.button:hover, 
+.widget_shopping_cart .total .amount, .product_list_widget li .amount, .titleSP h2, mark, .homeRacent .productF .recentCart a:hover, .homeRacent .productR .recentCart a:hover
+  {background:#35C2D8; text-shadow:0 1px 0 rgba(0,0,0,0.15);}
+.blogpostcategory .comment-inside a, .blogpostcategory .date-inside, .textSlide span,textSlide .quote, textSlide .quote2, .textSlide li {color: #ffffff !important; text-shadow:0 1px 0 rgba(0,0,0,0.15);}
+.textSlide .button, .textSlide .box {text-shadow:none;}
+/* ***********************
+--------------------------------------
+------------MAIN BORDER COLOR----------
+--------------------------------------
+*********************** */
+#logo a, .recentborder,.item4 .recentborder, .item3 .recentborder,.afterlinehome,.prelinehome, .cartHolder{border-color:#35C2D8 !important;}
+
+
+/* ***********************
+--------------------------------------
+------------BODY COLOR----------
+--------------------------------------
+*********************** */
+
+.blogpost .link a,.datecomment span,.homesingleleft .tags a,.homesingleleft .postedin a,.blogpostcategory .category a,.blogpostcategory .comments a,
+.blogpostcategory a.textlink ,.written a, .blogpostcategory .meta .time a	
+{ color:#2a2b2c}
+.homeRacent.SP h3 { color:#2a2b2c !important;}
+
+/* ***********************
+--------------------------------------
+------------MENU----------
+--------------------------------------
+*********************** */
+
+.menu li:hover ul {border-bottom: 5px solid #35C2D8;}
+.menu li ul li a, .item4 h4 a, #portitems2 .category a, .homeRacent .category a, .item3 h4 a, .homeRacent .productF h3.category, .homeRacent .productR h3.category
+{	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important; }
+.menu > li a {	font-family: Helvetica Neue, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important; color:#2e2d2d !important;letter-spacing: normal;}
+.menu a span{ 	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif  !important; color:#aaa !important;letter-spacing: normal;}
+
+.top-nav a {color:#fff;}
+/* ***********************
+--------------------------------------
+------------BLOG----------
+-----------------------------------*/
+.blogpostcategory h2 {line-height: 110% !important;}
+.wp-pagenavi span.pages {font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif;}
+.wp-pagenavi a, .showpostpostcontent h1 a {color:#2a2b2c;}
+.wp-pagenavi a:hover,ul.tabs a:hover, h2.trigger:hover { background-color:#35C2D8 !important; }
+ul.tabs.woo a.current{  background-color:#3A3F43; }
+ul.tabs.woo .active a, ul.tabs a.current{  background-color:#35C2D8; }
+.blogpost .datecomment a, .related h4 a, .content ol.commentlist li .comment-author .fn a, .content ol.commentlist li .reply a {color:#2a2b2c;}
+.blogpost .datecomment a:hover, .tags a:hover, .related h4 a:hover, .content ol.commentlist li .comment-author .fn a:hover, .content ol.commentlist li .reply a:hover { color:#35C2D8; }
+.comment-author .fn a, .homeRacent .productF .recentCart a,.homeRacent .productR .recentCart a{font-family: Yanone Kaffeesatz  !important;}
+.image-gallery, .gallery-item { border: 1px dashed #35C2D8;}
+.blogpostcategory .posted-date p{font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important;text-shadow:0 1px 0 rgba(0,0,0,0.15);}
+.pagecontent h1, .pagecontent p, .content ol.commentlist li .reply a, .team .role, .cartWrapper a, .pagecontentContent #breadcrumb {text-shadow:0 1px 0 rgba(0,0,0,0.15);}
+/* ***********************
+--------------------------------------
+------------Widget----------
+-----------------------------------*/
+.wttitle a {color:#2a2b2c;}
+
+.widgetline{}
+.widgett a:hover, .widget_nav_menu ul li a:hover{color:#35C2D8 !important;}
+ .widget_nav_menu ul li a{	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important; }
+.related h4{	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important; }
+.widget_search form div {	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important;}
+.widgett a {	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important;}
+.widget_tag_cloud a{	font-family: arial, "Helvetica Neue", Arial, Helvetica, Verdana, sans-serif !important;}
+
+
+/* ***********************
+--------------------------------------
+------------BUTTONS WITH SHORTCODES----------
+--------------------------------------
+*********************** */
+.cartWrapper a:hover {color:#fff !important;}
+.button_purche_right_top,.button_download_right_top,.button_search_right_top {font-family: Yanone Kaffeesatz  !important;color:#2a2b2c;text-shadow: 0 1px 0 rgba(255, 255, 255, 0.5);}
+.button_purche:hover,.button_download:hover,.button_search:hover {color:#35C2D8 !important;}
+.ribbon_center_red a, .ribbon_center_blue a, .ribbon_center_white a, .ribbon_center_yellow a, .ribbon_center_green a {font-family: Yanone Kaffeesatz  !important;}
+a.button.loading::before, button.button.loading::before, input.button.loading::before {content: "";position: absolute;height: 32px;width: 32px;bottom: 20px;left: 150px;text-indent: 0;background:url(images/loading.gif) no-repeat;}
